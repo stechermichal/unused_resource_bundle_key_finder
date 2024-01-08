@@ -2,7 +2,7 @@ import os
 import re
 import json
 
-# start dir 
+# start dir, should go all the way to src or even app
 rootDir = r'C:\my-codebase'
 
 # resource bundle path
